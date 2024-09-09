@@ -1,0 +1,27 @@
+@charse#a1{
+    color:rgba(33, 37, 61, 0.559)
+}
+#form{
+    width: 12cm;
+    height: 12cm;
+    border: 2px solid black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+   background-color: rgb(0, 255, 255);
+    
+}
+#a2{
+    
+    text-align: justify;
+    line-height: o.6cm;
+}
+#a5{
+    font-size: large; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: rgb(241, 141, 40);
+    
+    
+
+}
